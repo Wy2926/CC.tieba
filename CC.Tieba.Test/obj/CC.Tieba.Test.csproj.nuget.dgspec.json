@@ -1,0 +1,406 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\项目工程\\CC.Tieba\\CC.Tieba.Test\\CC.Tieba.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\项目工程\\CC.Tieba\\CC.Tieba.Application\\CC.Tieba.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Application\\CC.Tieba.Application.csproj",
+        "projectName": "CC.Tieba.Application",
+        "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Application\\CC.Tieba.Application.csproj",
+        "packagesPath": "C:\\Users\\吴洋\\.nuget\\packages\\",
+        "outputPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\吴洋\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\CC.Tieba.EF.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\CC.Tieba.EF.csproj"
+              },
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.Lib\\CC.Tieba.Lib.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Lib\\CC.Tieba.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\CC.Tieba.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\CC.Tieba.EF.csproj",
+        "projectName": "CC.Tieba.EF",
+        "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\CC.Tieba.EF.csproj",
+        "packagesPath": "C:\\Users\\吴洋\\.nuget\\packages\\",
+        "outputPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\吴洋\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\项目工程\\CC.Tieba\\CC.Tieba.Lib\\CC.Tieba.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Lib\\CC.Tieba.Lib.csproj",
+        "projectName": "CC.Tieba.Lib",
+        "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Lib\\CC.Tieba.Lib.csproj",
+        "packagesPath": "C:\\Users\\吴洋\\.nuget\\packages\\",
+        "outputPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\吴洋\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\项目工程\\CC.Tieba\\CC.Tieba.Reptile\\CC.Tieba.Reptile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Reptile\\CC.Tieba.Reptile.csproj",
+        "projectName": "CC.Tieba.Reptile",
+        "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Reptile\\CC.Tieba.Reptile.csproj",
+        "packagesPath": "C:\\Users\\吴洋\\.nuget\\packages\\",
+        "outputPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Reptile\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\吴洋\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.Application\\CC.Tieba.Application.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Application\\CC.Tieba.Application.csproj"
+              },
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\CC.Tieba.EF.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\CC.Tieba.EF.csproj"
+              },
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.Lib\\CC.Tieba.Lib.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Lib\\CC.Tieba.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "DotnetSpider.Core": {
+              "target": "Package",
+              "version": "[3.0.8, )"
+            },
+            "DotnetSpider.Extension": {
+              "target": "Package",
+              "version": "[3.0.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\项目工程\\CC.Tieba\\CC.Tieba.Task\\CC.Tieba.TaskDis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Task\\CC.Tieba.TaskDis.csproj",
+        "projectName": "CC.Tieba.TaskDis",
+        "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Task\\CC.Tieba.TaskDis.csproj",
+        "packagesPath": "C:\\Users\\吴洋\\.nuget\\packages\\",
+        "outputPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Task\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\吴洋\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.Application\\CC.Tieba.Application.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Application\\CC.Tieba.Application.csproj"
+              },
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\CC.Tieba.EF.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.EF\\CC.Tieba.EF.csproj"
+              },
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.Reptile\\CC.Tieba.Reptile.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Reptile\\CC.Tieba.Reptile.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            },
+            "Topshelf": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Topshelf.Log4Net": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\项目工程\\CC.Tieba\\CC.Tieba.Test\\CC.Tieba.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Test\\CC.Tieba.Test.csproj",
+        "projectName": "CC.Tieba.Test",
+        "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Test\\CC.Tieba.Test.csproj",
+        "packagesPath": "C:\\Users\\吴洋\\.nuget\\packages\\",
+        "outputPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\吴洋\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.Reptile\\CC.Tieba.Reptile.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Reptile\\CC.Tieba.Reptile.csproj"
+              },
+              "D:\\项目工程\\CC.Tieba\\CC.Tieba.Task\\CC.Tieba.TaskDis.csproj": {
+                "projectPath": "D:\\项目工程\\CC.Tieba\\CC.Tieba.Task\\CC.Tieba.TaskDis.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Lib\bin\Debug\netcoreapp2.2\CC.Tieba.Lib.deps.json
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Lib\bin\Debug\netcoreapp2.2\CC.Tieba.Lib.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Lib\bin\Debug\netcoreapp2.2\CC.Tieba.Lib.pdb
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Lib\obj\Debug\netcoreapp2.2\CC.Tieba.Lib.csproj.CoreCompileInputs.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Lib\obj\Debug\netcoreapp2.2\CC.Tieba.Lib.AssemblyInfoInputs.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Lib\obj\Debug\netcoreapp2.2\CC.Tieba.Lib.AssemblyInfo.cs
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Lib\obj\Debug\netcoreapp2.2\CC.Tieba.Lib.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Lib\obj\Debug\netcoreapp2.2\CC.Tieba.Lib.pdb

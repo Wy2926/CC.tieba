@@ -1,0 +1,12 @@
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\bin\Debug\netcoreapp2.2\CC.Tieba.Application.deps.json
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\bin\Debug\netcoreapp2.2\CC.Tieba.Application.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\bin\Debug\netcoreapp2.2\CC.Tieba.Application.pdb
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\bin\Debug\netcoreapp2.2\CC.Tieba.EF.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\bin\Debug\netcoreapp2.2\CC.Tieba.EF.pdb
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\obj\Debug\netcoreapp2.2\CC.Tieba.Application.csprojAssemblyReference.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\obj\Debug\netcoreapp2.2\CC.Tieba.Application.csproj.CoreCompileInputs.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\obj\Debug\netcoreapp2.2\CC.Tieba.Application.AssemblyInfoInputs.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\obj\Debug\netcoreapp2.2\CC.Tieba.Application.AssemblyInfo.cs
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\obj\Debug\netcoreapp2.2\CC.Tieba.Application.csproj.CopyComplete
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\obj\Debug\netcoreapp2.2\CC.Tieba.Application.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Application\obj\Debug\netcoreapp2.2\CC.Tieba.Application.pdb

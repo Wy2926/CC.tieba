@@ -1,0 +1,16 @@
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\bin\Debug\netcoreapp2.2\CC.Tieba.Reptile.deps.json
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\bin\Debug\netcoreapp2.2\CC.Tieba.Reptile.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\obj\Debug\netcoreapp2.2\CC.Tieba.Reptile.csprojAssemblyReference.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\obj\Debug\netcoreapp2.2\CC.Tieba.Reptile.csproj.CoreCompileInputs.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\obj\Debug\netcoreapp2.2\CC.Tieba.Reptile.AssemblyInfoInputs.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\obj\Debug\netcoreapp2.2\CC.Tieba.Reptile.AssemblyInfo.cs
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\bin\Debug\netcoreapp2.2\CC.Tieba.Reptile.pdb
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\obj\Debug\netcoreapp2.2\CC.Tieba.Reptile.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\obj\Debug\netcoreapp2.2\CC.Tieba.Reptile.pdb
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\bin\Debug\netcoreapp2.2\CC.Tieba.Lib.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\bin\Debug\netcoreapp2.2\CC.Tieba.Lib.pdb
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\obj\Debug\netcoreapp2.2\CC.Tieba.Reptile.csproj.CopyComplete
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\bin\Debug\netcoreapp2.2\CC.Tieba.EF.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\bin\Debug\netcoreapp2.2\CC.Tieba.EF.pdb
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\bin\Debug\netcoreapp2.2\CC.Tieba.Application.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.Reptile\bin\Debug\netcoreapp2.2\CC.Tieba.Application.pdb

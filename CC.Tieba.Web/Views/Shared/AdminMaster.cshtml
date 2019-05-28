@@ -1,0 +1,135 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"]</title>
+    <link href="~/layui/css/layui.css" rel="stylesheet" />
+    <link href="~/layui/css/admin.css" rel="stylesheet" />
+</head>
+<body class="layui-layout-body" style="height:100%;width:100%;position:absolute">
+    <div class="layui-layout layui-layout-admin" style="height:100%;">
+        <div class="layui-header">
+            <!-- 头部区域 -->
+            <ul class="layui-nav layui-layout-left" style="display:block">
+                <li class="layui-nav-item layadmin-flexible" lay-unselect="">
+                    <a href="javascript:;" layadmin-event="flexible" title="侧边伸缩">
+                        <i class="layui-icon layui-icon-shrink-right" id="LAY_app_flexible"></i>
+                    </a>
+                </li>
+                <!--<li class="layui-nav-item layui-this layui-hide-xs layui-hide-sm layui-show-md-inline-block">
+                  <a lay-href="" title="">
+                    控制台
+                  </a>
+                </li>-->
+                <li class="layui-nav-item layui-hide-xs" lay-unselect="">
+                    <a href="http://www.layui.com/admin/" target="_blank" title="前台">
+                        <i class="layui-icon layui-icon-website"></i>
+                    </a>
+                </li>
+                <li class="layui-nav-item" lay-unselect="">
+                    <a href="javascript:;" layadmin-event="refresh" title="刷新">
+                        <i class="layui-icon layui-icon-refresh-3"></i>
+                    </a>
+                </li>
+                <li class="layui-nav-item layui-hide-xs" lay-unselect="">
+                    <input type="text" placeholder="搜索..." autocomplete="off" class="layui-input layui-input-search" layadmin-event="serach" lay-action="template/search/keywords=">
+                </li>
+                <span class="layui-nav-bar" style="left: 198px; top: 48px; width: 0px; opacity: 0;"></span>
+            </ul>
+            <ul class="layui-nav layui-layout-right" lay-filter="layadmin-layout-right">
+
+                <li class="layui-nav-item" lay-unselect="">
+                    <a lay-href="app/message/" layadmin-event="message">
+                        <i class="layui-icon layui-icon-notice"></i>
+
+                        <!-- 如果有新消息，则显示小圆点 -->
+                        <script type="text/html" template="" lay-url="./json/message/new.js">
+
+                            <span class="layui-badge-dot"></span>
+                        </script>  <span class="layui-badge-dot"></span>
+
+                    </a>
+                </li>
+                <li class="layui-nav-item layui-hide-xs" lay-unselect="">
+                    <a href="javascript:;" layadmin-event="theme">
+                        <i class="layui-icon layui-icon-theme"></i>
+                    </a>
+                </li>
+                <li class="layui-nav-item layui-hide-xs" lay-unselect="">
+                    <a href="javascript:;" layadmin-event="note">
+                        <i class="layui-icon layui-icon-note"></i>
+                    </a>
+                </li>
+                <li class="layui-nav-item layui-hide-xs" lay-unselect="">
+                    <a href="javascript:;" layadmin-event="fullscreen">
+                        <i class="layui-icon layui-icon-screen-full"></i>
+                    </a>
+                </li>
+                <li class="layui-nav-item" lay-unselect="">
+                    <script type="text/html" template="" lay-url="./json/user/session.js" lay-done="layui.element.render('nav', 'layadmin-layout-right');">
+                        <a href="javascript:;">
+                            <cite>是顶顶顶</cite>
+                        </a>
+                        <dl class="layui-nav-child">
+                            <dd><a lay-href="set/user/info">基本资料</a></dd>
+                            <dd><a lay-href="set/user/password">修改密码</a></dd>
+                            <hr>
+                            <dd layadmin-event="logout" style="text-align: center;"><a>退出</a></dd>
+                        </dl>
+                    </script> <a href="javascript:;"> <cite>贤心</cite> <span class="layui-nav-more"></span></a> <dl class="layui-nav-child layui-anim layui-anim-upbit"> <dd><a lay-href="set/user/info">基本资料</a></dd> <dd><a lay-href="set/user/password">修改密码</a></dd> <hr> <dd layadmin-event="logout" style="text-align: center;"><a>退出</a></dd> </dl>
+                </li>
+
+                <li class="layui-nav-item layui-hide-xs" lay-unselect="">
+                    <a href="javascript:;" layadmin-event="about"><i class="layui-icon layui-icon-more-vertical"></i></a>
+                </li>
+                <li class="layui-nav-item layui-show-xs-inline-block layui-hide-sm" lay-unselect="">
+                    <a href="javascript:;" layadmin-event="more"><i class="layui-icon layui-icon-more-vertical"></i></a>
+                </li>
+                <span class="layui-nav-bar" style="left: 319.5px; top: 48px; width: 0px; opacity: 0;"></span>
+            </ul>
+        </div>
+        <div class="layui-side-scroll" style="">
+            <div class="layui-logo" lay-href=""> <span>layuiAdmin Pro</span> </div>
+            <ul class="layui-nav layui-nav-tree" lay-filter="test" style="width:auto">
+                <!-- 侧边导航: <ul class="layui-nav layui-nav-tree layui-nav-side"> -->
+                <li class="layui-nav-item layui-nav-itemed">
+                    <a href="javascript:;">主页</a>
+                    <dl class="layui-nav-child">
+                        <dd><a href="javascript:;">控制台</a></dd>
+                        <dd><a href="javascript:;">选项2</a></dd>
+                        <dd><a href="">跳转</a></dd>
+                    </dl>
+                </li>
+                <li class="layui-nav-item">
+                    <a href="javascript:;">贴吧</a>
+                    <dl class="layui-nav-child">
+                        <dd><a href="">贴吧管理</a></dd>
+                        <dd><a href="">帖子管理</a></dd>
+                        <dd><a href="">用户管理</a></dd>
+                    </dl>
+                </li>
+                <li class="layui-nav-item"><a href="">服务器信息</a></li>
+            </ul>
+        </div>
+        <div class="content">
+            @RenderBody()
+        </div>
+    </div>
+    <script src="~/layui/layui.all.js"></script>
+    <script>
+        //由于模块都一次性加载，因此不用执行 layui.use() 来加载对应模块，直接使用即可：
+        ; !function () {
+            var layer = layui.layer
+                , form = layui.form;
+            layer.msg('Hello World');
+        }();
+    </script>
+</body>
+</html>

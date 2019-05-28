@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="Quartz" Version="3.0.7" />
+    <PackageReference Include="Topshelf" Version="4.2.0" />
+    <PackageReference Include="Topshelf.Log4Net" Version="4.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CC.Tieba.Application\CC.Tieba.Application.csproj" />
+    <ProjectReference Include="..\CC.Tieba.EF\CC.Tieba.EF.csproj" />
+    <ProjectReference Include="..\CC.Tieba.Reptile\CC.Tieba.Reptile.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Quartz" Version="3.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CC.Tieba.Reptile\CC.Tieba.Reptile.csproj" />
+    <ProjectReference Include="..\CC.Tieba.Task\CC.Tieba.TaskDis.csproj" />
+  </ItemGroup>
+
+</Project>

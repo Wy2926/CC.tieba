@@ -1,0 +1,8 @@
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.EF\bin\Debug\netcoreapp2.2\CC.Tieba.EF.deps.json
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.EF\bin\Debug\netcoreapp2.2\CC.Tieba.EF.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.EF\bin\Debug\netcoreapp2.2\CC.Tieba.EF.pdb
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.EF\obj\Debug\netcoreapp2.2\CC.Tieba.EF.csproj.CoreCompileInputs.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.EF\obj\Debug\netcoreapp2.2\CC.Tieba.EF.AssemblyInfoInputs.cache
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.EF\obj\Debug\netcoreapp2.2\CC.Tieba.EF.AssemblyInfo.cs
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.EF\obj\Debug\netcoreapp2.2\CC.Tieba.EF.dll
+C:\Users\PSH\Documents\Visual Studio 2017\Projects\CC.Tieba\CC.Tieba.EF\obj\Debug\netcoreapp2.2\CC.Tieba.EF.pdb
